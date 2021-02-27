@@ -18,9 +18,6 @@ C. The positive and negative examples cannot be separated using a straight line.
 D. Because the positive and negative examples cannot be separated using a straight line, linear regression will perform as well as logistic regression on this data. (Incorrect)
 
 Question 3
-<img src="C:\Users\akshaythakare\Downloads\q3.PNG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
 ![Q3](q3.PNG)
  
