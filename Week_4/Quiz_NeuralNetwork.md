@@ -13,7 +13,7 @@ Question 3
 Question 4  
 ![Neural Networks Q4](./data/quiz1_q4_1.PNG)
 
-![Neural Networks Q4](./data/quiz1_q1_2.PNG)
+![Neural Networks Q4](./data/quiz1_q4_2.PNG)
 
 Question 5  
 ![Neural Networks Q5](./data/quiz1_q5.PNG)
