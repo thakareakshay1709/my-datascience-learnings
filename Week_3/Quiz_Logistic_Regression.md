@@ -19,15 +19,15 @@ D. Because the positive and negative examples cannot be separated using a straig
 
 Question 3
 
-![Q3](q3.PNG)
+![Q3](./data/q3.PNG)
 
 Question 4
 
-![Q4](q4.PNG)
+![Q4](./data/q4.PNG)
 
 Question 5
 
-![Q5](q5_1.PNG)
+![Q5](./data/q5_1.PNG)
 
-![Q5](q5_2.PNG)
+![Q5](./data/q5_2.PNG)
  
